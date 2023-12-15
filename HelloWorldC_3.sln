@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorldC_3", "HelloWorldC_3.vcxproj", "{DABBB008-1820-4CA0-B67B-E30249FD9AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABBB008-1820-4CA0-B67B-E30249FD9AEC}.Debug|x64.ActiveCfg = Debug|x64
+		{DABBB008-1820-4CA0-B67B-E30249FD9AEC}.Debug|x64.Build.0 = Debug|x64
+		{DABBB008-1820-4CA0-B67B-E30249FD9AEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DABBB008-1820-4CA0-B67B-E30249FD9AEC}.Debug|x86.Build.0 = Debug|Win32
+		{DABBB008-1820-4CA0-B67B-E30249FD9AEC}.Release|x64.ActiveCfg = Release|x64
+		{DABBB008-1820-4CA0-B67B-E30249FD9AEC}.Release|x64.Build.0 = Release|x64
+		{DABBB008-1820-4CA0-B67B-E30249FD9AEC}.Release|x86.ActiveCfg = Release|Win32
+		{DABBB008-1820-4CA0-B67B-E30249FD9AEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64317186-D456-4033-B7E1-23162C590CC9}
+	EndGlobalSection
+EndGlobal
