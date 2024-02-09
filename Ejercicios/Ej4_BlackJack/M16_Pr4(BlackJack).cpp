@@ -27,34 +27,38 @@ int valorCarta(int carta, string palo) {
         }
     }
     if (carta == 1){
-
+        cout << carta << " AS\n";
+        cin >> valorAS;
+        if (valorAS == 1)
+        {
+            cartaAS = 1;
     }
     if (carta == 2){
-
+        cout << carta = 2;
     }
     if (carta == 3){
-
+        cout << carta = 3;
     }
     if (carta == 4){
-
+        cout << carta = 4;
     }
     if (carta == 5){
-
+        cout << carta = 5;
     }
     if (carta == 6){
-
+        cout << carta = 6;
     }
     if (carta == 7){
-
+        cout << carta = 7;
     }
     if (carta == 8){
-
+        cout << carta = 8;
     }
     if (carta == 9){
-
+        cout << carta = 9;
     }
     if (carta == 10){
-
+        cout << carta = 10;
     }
     else if (carta > 0 && carta <= 10) {
         //Si es un numero entre el 1 y el 9, es la carta con ese número más uno. Por ejemplo, si el rand es un 4,´la carta será un 5
