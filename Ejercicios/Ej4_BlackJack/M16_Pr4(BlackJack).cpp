@@ -142,5 +142,7 @@ int main()
     cout << "¿Es un AS?";
 
     cout << "¿Quieres que te reparta otra carta?";
+
+    cout << "Has perdido, fin de la partida";
 }
 
